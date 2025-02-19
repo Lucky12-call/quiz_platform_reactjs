@@ -6,6 +6,7 @@ import Scoreboard from "./components/Scoreboard";
 const App = () => {
 
   return (
+    <div className="w-full md:w-[70%] mx-auto">
     <Router>
       <Routes>
         <Route path="/" element={<QuizList />} />
@@ -13,6 +14,7 @@ const App = () => {
         <Route path="/scoreboard" element={<Scoreboard />} />
       </Routes>
     </Router>
+    </div>
   );
 };
 
