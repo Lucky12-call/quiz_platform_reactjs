@@ -26,7 +26,7 @@ Node.js (Recommended: Latest LTS version)
 npm (comes with Node.js) or Yarn (optional)
 
 Step 1: Clone the Repository
-git clone <your-repository-url>
+git clone: https://github.com/Lucky12-call/quiz_platform_reactjs.git
 cd quiz-platform-reactjs
 
 Step 2: Install Dependencies
